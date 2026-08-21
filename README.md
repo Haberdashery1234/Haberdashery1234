@@ -30,8 +30,3 @@ AI feature framework and the portfolio app that showcases it.
 Swift, Objective-C, SwiftUI, UIKit, Combine, Core Data, Core Animation,
 Flutter, MVVM, SDK development, RESTful APIs, Firebase, Xcode, Git, CI/CD,
 Instruments, XCTest.
-
----
-
-_This README is generated to match the "About" copy on my portfolio
-site — update both together if either changes._
