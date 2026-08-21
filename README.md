@@ -1,16 +1,37 @@
-## Hi there 👋
+### Hi, I'm Christian 👋
 
-<!--
-**Haberdashery1234/Haberdashery1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Mobile Developer with 10+ years engineering healthcare and telehealth
+mobile applications in Swift and Objective-C. Currently building an on-device
+AI feature framework and the portfolio app that showcases it.
 
-Here are some ideas to get you started:
+- 📱 iOS work has shipped in production apps including Amwell, Amwell for
+  Clinicians, The Boston Globe, Blue Cross Blue Shield, and Wawa
+- 🧠 Currently exploring Apple's on-device Foundation Models framework
+- 💬 Reach me at christian.grise@gmail.com or on
+  [LinkedIn](https://www.linkedin.com/in/christiangrise/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### A few projects I'm building right now
+
+- **[Clarity](https://github.com/Haberdashery1234/Clarity)** — a UIKit
+  portfolio app that turns pasted text, shared links/PDFs, or a scanned
+  document into a plain-language summary, entirely on-device.
+- **[ClearDoc](https://github.com/Haberdashery1234/ClearDoc)** — the
+  on-device text-clarification framework powering Clarity, built on Apple's
+  Foundation Models framework. No network calls, no data leaves the device.
+- **[HABDesignSystem](https://github.com/Haberdashery1234/HABDesignSystem)** —
+  a reusable design-token + UIKit component library shared across my iOS
+  projects.
+- **[MeterReaderKeeper](https://github.com/Haberdashery1234/MeterReaderKeeper)** —
+  a UIKit app for tracking utility meter readings across buildings and
+  floors, with QR-code scanning and export/email of reading history.
+
+#### Skills & tools
+
+Swift, Objective-C, SwiftUI, UIKit, Combine, Core Data, Core Animation,
+Flutter, MVVM, SDK development, RESTful APIs, Firebase, Xcode, Git, CI/CD,
+Instruments, XCTest.
+
+---
+
+_This README is generated to match the "About" copy on my portfolio
+site — update both together if either changes._
