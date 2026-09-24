@@ -4,7 +4,7 @@ Senior Mobile Developer with 10+ years engineering healthcare and telehealth
 mobile applications in Swift and Objective-C. Currently building an on-device
 AI feature framework and the portfolio app that showcases it.
 
-- 📱 iOS work has shipped in production apps including Amwell, Amwell for
+- 📱 iOS work has shipped in production apps including Citi, Amwell, Amwell for
   Clinicians, The Boston Globe, Blue Cross Blue Shield, and Wawa
 - 🧠 Currently exploring Apple's on-device Foundation Models framework
 - 💬 Reach me at christian.grise@gmail.com or on
@@ -24,6 +24,8 @@ AI feature framework and the portfolio app that showcases it.
 - **[MeterReaderKeeper](https://github.com/Haberdashery1234/MeterReaderKeeper)** —
   a UIKit app for tracking utility meter readings across buildings and
   floors, with QR-code scanning and export/email of reading history.
+- **[TimeCalculator](https://github.com/Haberdashery1234/MeterReaderKeeper)** —
+  a SwiftUI app for adding times together and tallying time on the clock based on time cards.
 
 #### Skills & tools
 
